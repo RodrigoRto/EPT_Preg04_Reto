@@ -8,7 +8,7 @@ int main(){
 	
 	cout<< "*********BIENVENIDOS A SU PRACTICA CALIFICADA************\n";
 	cout<< "\nPregunta 01: La casa de los Perez tiene 3 pisos.\nSi se sabe que el cuadrado de la diferencia de altura y de cinco es 16.\nHallar dicha altura si se sabe que es mayor a 3. ";
-	cout<< "\n\nRespuesta: \n\n";
+	cout<< "\n\nRespuesta:9\n\n";
 	system("pause");
 	cout<<"-----------------------------------------------------------------------------------------------------";
 	cout<< "\nPregunta 02: Un automóvil robado que escapa de la policía a 17 m/s \nse estrella al cabo de 2s en la casa de los Perez. \nTeniendo en cuenta que dicho automovil viajaba a una velocidad constante\nantes del choque \nhalle la distancia desde el punto A hasta el punto B.";
