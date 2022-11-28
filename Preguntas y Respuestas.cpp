@@ -20,7 +20,7 @@ int main(){
 	system("pause");
 	cout<<"-----------------------------------------------------------------------------------------------------";
 	cout<< "\nPregunta 04: Calcular el área del trapecio formado por \nlos puntos A,B,C y D en dicha gráfica. ";
-	cout<< "\n\nRespuesta:  \n\n";
+	cout<< "\n\nRespuesta:252  \n\n";
 	system("pause");
 	
 	
